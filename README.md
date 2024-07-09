@@ -6,11 +6,11 @@ This project provides a comprehensive setup for training, evaluating, and deploy
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/danielhamelberg/azure-ml-model-training-setup.git
+    git clone https://github.com/danielhamelberg/azure-ml-pipeline.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd azure-ml-model-training-setup
+    cd azure-ml-pipeline
     ```
 3. Install the dependencies:
     ```sh
