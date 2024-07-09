@@ -6,7 +6,7 @@ This project provides a comprehensive setup for training, evaluating, and deploy
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/azure-ml-model-training-setup.git
+    git clone https://github.com/danielhamelberg/azure-ml-model-training-setup.git
     ```
 2. Navigate to the project directory:
     ```sh
@@ -78,4 +78,5 @@ This project provides a comprehensive setup for training, evaluating, and deploy
 5. Open a pull request.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0.
+```
